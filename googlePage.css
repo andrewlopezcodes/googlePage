@@ -109,3 +109,20 @@ input {
 .favorites:hover {
   background-color: rgba(238, 234, 234, 0.4);
 }
+
+.covid{
+  display: block;
+  background-color: white;
+  border: 1px solid rgba(180, 178, 178, 0.3);
+  border-radius: 25px;
+  color: blue;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 16px;
+}
+
+
+/* This was written by @andrewlopezcodes on github */
